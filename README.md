@@ -5,7 +5,7 @@ It is a automated selinium/python based bot used to comment on various post auto
 
 1. Go to terminal (command prompt)
 2. Go to the location where you have your file saved
-3. Run the script using Python <filename> 
+3. Run the script using Python InstagramCommentingBot.py
   
 # What do you need to change ?
 1. Enter the credentials of the username and password in the lines as required in 61 and 63
