@@ -1,5 +1,5 @@
 # InstagramCommentingBot
-It is a automated selinium/python based bot used to comment on various post automatically.
+It is a automated selinium/python based bot used to comment on various  Instagram post automatically.
 
 # How do you run the above script 
 
