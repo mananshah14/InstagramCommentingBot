@@ -16,4 +16,4 @@ chrome or any other browser driver you wish to use
 
 https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 
-https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+https://chromedriver.chromium.org/downloads
