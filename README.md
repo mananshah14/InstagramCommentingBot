@@ -13,7 +13,7 @@ It is a automated selinium/python based bot used to comment on various  Instagra
 
 # Download the Driver 
 chrome or any other browser driver you wish to use
+  
+https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/  ---> microsoft-edge driver
 
-https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
-
-https://chromedriver.chromium.org/downloads
+https://chromedriver.chromium.org/downloads  ----> Google chrome driver 
